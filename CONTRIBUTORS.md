@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ #### Name: [Miral Purohit](https://github.com/miralp241)
+ - Place: Surat, Gujarat, India
+ - Bio: Frontend web developer
+ - GitHub: [miralp241](https://github.com/miralp241)
